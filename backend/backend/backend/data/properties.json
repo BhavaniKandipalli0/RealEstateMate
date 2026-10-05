@@ -1,0 +1,433 @@
+[
+  {
+    "id": "d5hliy6",
+    "title": "The Glasshouse Penthouse",
+    "address": "707 Skyline Blvd, Downtown",
+    "price": 1250000,
+    "beds": 3,
+    "baths": 3.5,
+    "sqft": 2800,
+    "amenities": [
+      "Private Pool",
+      "Rooftop Balcony",
+      "Elevator",
+      "Floor-to-ceiling Windows",
+      "Gym"
+    ],
+    "averageRentalYield": 6.8,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Downtown Skyline! Boasting 3 Bed and 3.5 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Private Rooftop Pool, Penthouse Floor, Floor-to-Ceiling glass windows, Skyline views, and Private Elevator access, it offers an unmatched living experience. Priced at $1.25M, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 6.8,
+      "rating": "Good Investment",
+      "monthlyEstimate": 7083,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 6.8% rental yield, it offers a consistent expected monthly return of $7083. The local market at 707 Skyline Blvd, Downtown exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$5,000",
+      "noticePeriod": "60 Days",
+      "petPolicy": "Allowed (subject to $500 refundable pet deposit, max 2 pets)",
+      "hiddenFees": "$200 cleaning fee at checkout, $75 monthly HOA fee"
+    },
+    "createdAt": "2026-07-08T15:13:55.698Z"
+  },
+  {
+    "id": "rxykja4",
+    "title": "Rustic Garden Cottage",
+    "address": "12 Valley Oak Rd, Oakridge",
+    "price": 340000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 1100,
+    "amenities": [
+      "Large Backyard",
+      "Sunlit Garden",
+      "Fireplace",
+      "Hardwood Floors"
+    ],
+    "averageRentalYield": 5.1,
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800",
+      "https://images.unsplash.com/photo-1464893913606-2ddec773d402?w=800",
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Historic Tudor style! Boasting Cozy 2 Bed and 1 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Huge private yard for plants, Natural sun light, Quiet country feel, and Oakridge Suburbs, it offers an unmatched living experience. Priced at $340k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 5.1,
+      "rating": "Good Investment",
+      "monthlyEstimate": 1445,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 5.1% rental yield, it offers a consistent expected monthly return of $1445. The local market at 12 Valley Oak Rd, Oakridge exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$2000",
+      "noticePeriod": "30 Days",
+      "petPolicy": "Allowed (subject to landlord approval)",
+      "hiddenFees": "$$50 late payment charge"
+    },
+    "createdAt": "2026-07-08T15:13:55.700Z",
+    "updatedAt": "2026-07-08T15:22:50.502Z"
+  },
+  {
+    "id": "yuq8yhy",
+    "title": "Urban Loft & Art Studio",
+    "address": "410 Canvas Lane, Arts District",
+    "price": 480000,
+    "beds": 1,
+    "baths": 1.5,
+    "sqft": 950,
+    "amenities": [
+      "Exposed Brick",
+      "High Ceilings",
+      "Industrial Windows",
+      "Rooftop Deck",
+      "Gym"
+    ],
+    "averageRentalYield": 7.2,
+    "images": [
+      "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=800",
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Industrial windows! Boasting 1 Bed and 1.5 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Exposed brick walls, High timber ceilings, Walk to craft coffee, Arts District center, and Bachelor pad vibe, it offers an unmatched living experience. Priced at $480k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 7.2,
+      "rating": "Excellent Investment",
+      "monthlyEstimate": 2880,
+      "analysis": "This property is priced competitively and displays an outstanding yield potential of 7.2%, significantly outperforming the standard regional benchmark of 4.5%. With an estimated monthly rent of $2880, it represents an elite source of steady passive cash flow."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$2,200",
+      "noticePeriod": "30 Days",
+      "petPolicy": "Allowed (cats allowed, dogs require approval)",
+      "hiddenFees": "$150 building move-in fee"
+    },
+    "createdAt": "2026-07-08T15:13:55.702Z"
+  },
+  {
+    "id": "8qd7j4c",
+    "title": "Modern Waterfront Villa",
+    "address": "22 Yacht Club Dr, Marina Bay",
+    "price": 2100000,
+    "beds": 4,
+    "baths": 4.5,
+    "sqft": 4200,
+    "amenities": [
+      "Docking Berth",
+      "Ocean Views",
+      "Infinity Pool",
+      "Gourmet Kitchen",
+      "Wine Cellar",
+      "Smart Home"
+    ],
+    "averageRentalYield": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Endless ocean vistas! Boasting 4 Bed and 4.5 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Waterfront, Boat slip dock, Yacht bay harbor, Chef kitchen, Pool, and Marina Bay, it offers an unmatched living experience. Priced at $2.1M, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 4.8,
+      "rating": "Fair/Conservative Investment",
+      "monthlyEstimate": 8400,
+      "analysis": "This property operates under a standard yield profile of 4.8% (estimated $8400 monthly rent). While cash flow yields are conservative, it stands out for capital preservation and equity growth potential in a stable neighborhood."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$10,000",
+      "noticePeriod": "90 Days",
+      "petPolicy": "Prohibited",
+      "hiddenFees": "$300 monthly pool and landscaping maintenance charge"
+    },
+    "createdAt": "2026-07-08T15:13:55.703Z"
+  },
+  {
+    "id": "dgls2tn",
+    "title": "Serene Forest Cabin",
+    "address": "55 Whisper Pines Way, Green Valley",
+    "price": 290000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1400,
+    "amenities": [
+      "Wood Fireplace",
+      "Cedar Deck",
+      "Hot Tub",
+      "Hiking Trails"
+    ],
+    "averageRentalYield": 5.5,
+    "images": [
+      "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=800",
+      "https://images.unsplash.com/photo-1449034446853-66c86144b0ad?w=800",
+      "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Rustic 2 Bed! Boasting Rustic 2 Bed and 2 Bath cabin, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Wood-burning fireplace, Cedar wrap-around porch, Redwood trees, Close to national park trails, Quiet vibe, and Green Valley, it offers an unmatched living experience. Priced at $290k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 5.5,
+      "rating": "Good Investment",
+      "monthlyEstimate": 1329,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 5.5% rental yield, it offers a consistent expected monthly return of $1329. The local market at 55 Whisper Pines Way, Green Valley exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$1,500",
+      "noticePeriod": "30 Days",
+      "petPolicy": "Allowed (large dogs allowed, pet friendly)",
+      "hiddenFees": "None"
+    },
+    "createdAt": "2026-07-08T15:13:55.705Z"
+  },
+  {
+    "id": "orr72g2",
+    "title": "Eco-Friendly Smart Home",
+    "address": "88 Solaria Way, Maple Heights",
+    "price": 520000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1850,
+    "amenities": [
+      "Solar Panels",
+      "EV Charger",
+      "Tesla Powerwall",
+      "Rainwater System",
+      "Smart Appliances"
+    ],
+    "averageRentalYield": 6,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800",
+      "https://images.unsplash.com/photo-1527030280862-64139fbe04ca?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Electric vehicle charging station! Boasting 3 Bed and 2 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Full Solar array, Sustainable green materials, Tesla energy storage, and Maple Heights, it offers an unmatched living experience. Priced at $520k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 6,
+      "rating": "Good Investment",
+      "monthlyEstimate": 2600,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 6% rental yield, it offers a consistent expected monthly return of $2600. The local market at 88 Solaria Way, Maple Heights exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$2,500",
+      "noticePeriod": "45 Days",
+      "petPolicy": "Allowed (max 1 pet under 25 lbs)",
+      "hiddenFees": "None (utilities highly reduced due to solar power)"
+    },
+    "createdAt": "2026-07-08T15:13:55.707Z"
+  },
+  {
+    "id": "a0i8hss",
+    "title": "Downtown Studio Pad",
+    "address": "202 Metro Avenue, Center City",
+    "price": 310000,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 600,
+    "amenities": [
+      "Skyline Views",
+      "Walk-in Closet",
+      "Concierge",
+      "Subway Access",
+      "Secure Parking"
+    ],
+    "averageRentalYield": 7.5,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=800",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Studio apartment! Boasting spacious and 1 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as High floor view of downtown, Walk to subway and transit, Sleek concrete floor, Perfect bachelor pad, and Central location, it offers an unmatched living experience. Priced at $310k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 7.5,
+      "rating": "Excellent Investment",
+      "monthlyEstimate": 1938,
+      "analysis": "This property is priced competitively and displays an outstanding yield potential of 7.5%, significantly outperforming the standard regional benchmark of 4.5%. With an estimated monthly rent of $1938, it represents an elite source of steady passive cash flow."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$1,500",
+      "noticePeriod": "30 Days",
+      "petPolicy": "Allowed (cats allowed, no dogs)",
+      "hiddenFees": "$100 key deposit"
+    },
+    "createdAt": "2026-07-08T15:13:55.709Z"
+  },
+  {
+    "id": "ycfbpyh",
+    "title": "Classic Tudor Family Home",
+    "address": "105 Elmwood Ave, Elmwood District",
+    "price": 680000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2600,
+    "amenities": [
+      "Finished Basement",
+      "Fenced Backyard",
+      "Double Garage",
+      "Top School District"
+    ],
+    "averageRentalYield": 5.2,
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in a prime neighborhood! Boasting 4 Bed and 3 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Elmwood area, Top elementary and middle schools, Big brick chimney, Safe family neighborhood, Backyard for kids and dogs, and Finished cellar, it offers an unmatched living experience. Priced at $680k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 5.2,
+      "rating": "Good Investment",
+      "monthlyEstimate": 2947,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 5.2% rental yield, it offers a consistent expected monthly return of $2947. The local market at 105 Elmwood Ave, Elmwood District exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$3,500",
+      "noticePeriod": "60 Days",
+      "petPolicy": "Allowed (dogs and cats allowed, fully fenced yard)",
+      "hiddenFees": "None"
+    },
+    "createdAt": "2026-07-08T15:13:55.711Z"
+  },
+  {
+    "id": "qr51nqw",
+    "title": "Sunset Hills Mid-Century",
+    "address": "1840 Ridge Crest, Sunset Hills",
+    "price": 890000,
+    "beds": 3,
+    "baths": 2.5,
+    "sqft": 2200,
+    "amenities": [
+      "Swimming Pool",
+      "Panoramic Windows",
+      "Oak Trees",
+      "Open Concept Plan",
+      "Terrazzo Floor"
+    ],
+    "averageRentalYield": 5.9,
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800",
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=800",
+      "https://images.unsplash.com/photo-1501183007986-d0d080b147f9?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in a prime neighborhood! Boasting 3 Bed and 2.5 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Mid-Century Modern architecture, Swimming pool, Oak wood setting, Floor-to-ceiling glass, Sunset views, and Open floor layout, it offers an unmatched living experience. Priced at $890k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 5.9,
+      "rating": "Good Investment",
+      "monthlyEstimate": 4376,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 5.9% rental yield, it offers a consistent expected monthly return of $4376. The local market at 1840 Ridge Crest, Sunset Hills exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$4,500",
+      "noticePeriod": "60 Days",
+      "petPolicy": "Allowed (with $250 pet fee)",
+      "hiddenFees": "$150 pool utility fee"
+    },
+    "createdAt": "2026-07-08T15:13:55.714Z"
+  },
+  {
+    "id": "ijvz11b",
+    "title": "Charming Brick Townhouse",
+    "address": "88 Cobblestone Rd, Historic Quarter",
+    "price": 620000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1700,
+    "amenities": [
+      "Private Patio",
+      "Original Fireplace",
+      "Brick Facade",
+      "Walk to Cafes"
+    ],
+    "averageRentalYield": 6.4,
+    "images": [
+      "https://images.unsplash.com/photo-1602075432748-82d264e2b463?w=800",
+      "https://images.unsplash.com/photo-1502005229762-fc1b2b812ca5?w=800",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Historic district! Boasting 3 Bed and 2 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Classic brick front, Courtyard deck patio, Walkable to local cafes and bookshops, and Fireplace, it offers an unmatched living experience. Priced at $620k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 6.4,
+      "rating": "Good Investment",
+      "monthlyEstimate": 3307,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 6.4% rental yield, it offers a consistent expected monthly return of $3307. The local market at 88 Cobblestone Rd, Historic Quarter exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$3,000",
+      "noticePeriod": "45 Days",
+      "petPolicy": "Allowed (cats allowed, small dogs under 20 lbs allowed)",
+      "hiddenFees": "None"
+    },
+    "createdAt": "2026-07-08T15:13:55.716Z"
+  },
+  {
+    "id": "ibuxhfx",
+    "title": "Quiet Pines Condominium",
+    "address": "411 Whispering Pines Dr, Pines Corner",
+    "price": 275000,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1150,
+    "amenities": [
+      "Top Floor",
+      "Balcony",
+      "Clubhouse",
+      "Park Views",
+      "Tennis Courts"
+    ],
+    "averageRentalYield": 5.8,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "https://images.unsplash.com/photo-1560185127-6a2806647f81?w=800",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in a prime neighborhood! Boasting 2 Bed and 2 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Top floor condo unit, Quiet neighbors, Balcony facing the park, Low maintenance, Pinewood community, and Tennis court, it offers an unmatched living experience. Priced at $275k, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 5.8,
+      "rating": "Good Investment",
+      "monthlyEstimate": 1329,
+      "analysis": "This property represents a solid long-term acquisition. Operating at a projected 5.8% rental yield, it offers a consistent expected monthly return of $1329. The local market at 411 Whispering Pines Dr, Pines Corner exhibits healthy rental demand and positive appreciation vectors."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$1,300",
+      "noticePeriod": "30 Days",
+      "petPolicy": "Prohibited",
+      "hiddenFees": "$50 clubhouse key charge"
+    },
+    "createdAt": "2026-07-08T15:13:55.718Z"
+  },
+  {
+    "id": "h52yp88",
+    "title": "Cypress Point Golf Estate",
+    "address": "1 Country Club Lane, Cypress Point",
+    "price": 3400000,
+    "beds": 5,
+    "baths": 6,
+    "sqft": 6800,
+    "amenities": [
+      "Golf Frontage",
+      "Wine Cellar",
+      "Infinity Pool",
+      "Gated Security",
+      "Guest House",
+      "Home Theater"
+    ],
+    "averageRentalYield": 4.2,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800",
+      "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?w=800"
+    ],
+    "description": "Step into luxury with this stunning property located in Gated estate enclave! Boasting 5 Bed and 6 Bath, this home is meticulously crafted to impress at first glance. Featuring exceptional amenities such as Golf course front, Glass wine vault, Cinema theater, Swimming pool, Detached guest lodge, and Cypress Point, it offers an unmatched living experience. Priced at $3.4M, this is a rare opportunity to acquire a piece of dream real estate that perfectly combines comfort, style, and absolute convenience.",
+    "investmentScore": {
+      "yieldRate": 4.2,
+      "rating": "Fair/Conservative Investment",
+      "monthlyEstimate": 11900,
+      "analysis": "This property operates under a standard yield profile of 4.2% (estimated $11900 monthly rent). While cash flow yields are conservative, it stands out for capital preservation and equity growth potential in a stable neighborhood."
+    },
+    "leaseSummary": {
+      "securityDeposit": "$15,000",
+      "noticePeriod": "90 Days",
+      "petPolicy": "Allowed (with landlord approval, $1,000 pet deposit)",
+      "hiddenFees": "$500 monthly landscaping and security fee"
+    },
+    "createdAt": "2026-07-08T15:13:55.723Z"
+  }
+]
